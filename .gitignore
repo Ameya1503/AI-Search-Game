@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large data files (optional - if you don't want to upload the 5k row csv)
+# training_data.csv
