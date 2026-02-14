@@ -62,4 +62,4 @@ The model was trained for **30 Epochs** using the **Adam Optimizer** and **Mean 
 
 ---
 **Ameya Nangle**
-*B.Tech E&C (Minor in AI/ML) | MIT World Peace University*
+*B.Tech ECE (Minor in AI/ML) | MIT World Peace University*
